@@ -2,3 +2,6 @@ Saniya
 Devops
 aws
 bangalore
+animal
+dog
+cat
